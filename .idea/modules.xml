@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/scgis_project.iml" filepath="$PROJECT_DIR$/.idea/scgis_project.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/scgis_django.iml" filepath="$PROJECT_DIR$/.idea/scgis_django.iml" />
+>>>>>>> b59ecb4991c4566acd45340a5202e4e3b09fd592
     </modules>
   </component>
 </project>
